@@ -1,0 +1,1486 @@
+canonical_identifier: bkk:krp/KR3em003/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3em003/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 秘傳眼科龍木論
+  identifiers:
+    krp: KR3em003
+  tags:
+    kr-categories: KR3em
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3em003.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3em003_000-jc.yaml, hash: 'sha256:1c1cba953a0957e672b2609e5c026d486448508eb7e2d1232d24ec870abfab2f'}
+  - {seq: 1, filename: KR3em003_001-jc.yaml, hash: 'sha256:29d0046246b5c0f798274b1ce19cac8d76954dbf2333fdfbab6aba1c8158d8f9'}
+  - {seq: 2, filename: KR3em003_002-jc.yaml, hash: 'sha256:1d2804808e5af75915220e1dd101369a8e4c10892ad6612fc7a5302f2fde859e'}
+  - {seq: 3, filename: KR3em003_003-jc.yaml, hash: 'sha256:21fc9fb5e0064b703e21c977e152a8f43c1ec46a8976ec8d130aab3a57cd8b97'}
+  - {seq: 4, filename: KR3em003_004-jc.yaml, hash: 'sha256:f9eb1b810e3dc259519a60db57c203ebbc14a8ab306c2f69ef9ab7cf484a6e1b'}
+  - {seq: 5, filename: KR3em003_005-jc.yaml, hash: 'sha256:9d9dbeda152ff6ef2729e5e08d218ae05130bd488a7b228a7675268dd2bba17a'}
+  - {seq: 6, filename: KR3em003_006-jc.yaml, hash: 'sha256:53b15305e8a07908a3187f13771db6c9ae36c409d2a59de7ecf352993ebed675'}
+  - {seq: 7, filename: KR3em003_007-jc.yaml, hash: 'sha256:f19024740af9489d699c2454bd712fed17084137789c7a1d28055303c494db5e'}
+  - {seq: 8, filename: KR3em003_008-jc.yaml, hash: 'sha256:61e0085947ecedffb90a081b5ab8bfff92b8533a9f2081dacf26b15181bbeb9c'}
+  - {seq: 9, filename: KR3em003_009-jc.yaml, hash: 'sha256:afc136f6e9384ee61d85c6a6af593244313833f9dfc5b8dd47214a80b41713f8'}
+  - {seq: 10, filename: KR3em003_010-jc.yaml, hash: 'sha256:b81748e6889a0af4ffcdf5c0ea53718e08f4937060660a5d36e33b746c3f1044'}
+  - {seq: 0, filename: KR3em003_000-jc.yaml, hash: 'sha256:feba194ff0f6b111c176feabdda94a6180d4e9674fa91d44e5c93ab807ea13be'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3em003_000-jc.markers.yaml, hash: 'sha256:9ff55ef3ddb830e6748c19afe10f80341f7600f7b6b27ac4b258f62de286aa36'}
+  - {seq: 1, role: markers, filename: assets/KR3em003_001-jc.markers.yaml, hash: 'sha256:7c2b4ad8670adb7ef13614c59d0221d2a9bccea9a03b61d2fef4c5298350db31'}
+  - {seq: 2, role: markers, filename: assets/KR3em003_002-jc.markers.yaml, hash: 'sha256:48b700cf30f74e431723f8a17c1d4ed8865fcab369a0b1d21b258911540d0c3f'}
+  - {seq: 3, role: markers, filename: assets/KR3em003_003-jc.markers.yaml, hash: 'sha256:6d1a05a12778ae8f1636240b82ede746bc530b747b4339306292f805b7c96714'}
+  - {seq: 4, role: markers, filename: assets/KR3em003_004-jc.markers.yaml, hash: 'sha256:9c8d2d0d6c0f6710c354b973741de5ea0b73d8cae11e388e05ce12fd1cac38e2'}
+  - {seq: 5, role: markers, filename: assets/KR3em003_005-jc.markers.yaml, hash: 'sha256:50d9ce0e080594c145e97f266467da7b86bbffdbdb924016978d02ce13b7dabb'}
+  - {seq: 6, role: markers, filename: assets/KR3em003_006-jc.markers.yaml, hash: 'sha256:2fdc2f36b109ec5e4fdf541f565c33d218f52b4dae440229b1238c4a6b9a4ffd'}
+  - {seq: 7, role: markers, filename: assets/KR3em003_007-jc.markers.yaml, hash: 'sha256:244156cd589eb3e254b8c88220d24559c219d934be4f38a5ec2032c8b9ed66e9'}
+  - {seq: 8, role: markers, filename: assets/KR3em003_008-jc.markers.yaml, hash: 'sha256:389ef6a0f1a201dc2db8272adccee4f801a832b51664e1a77cc4780098ec84d2'}
+  - {seq: 9, role: markers, filename: assets/KR3em003_009-jc.markers.yaml, hash: 'sha256:960f26419dc6be754ecfb6883a06fce701cd9236f29e7da75cd3ae703beb2a78'}
+  - {seq: 10, role: markers, filename: assets/KR3em003_010-jc.markers.yaml, hash: 'sha256:2f09896d99598dd8140896a8fb2787d184f2ef67c2e918912ee2b2b946921083'}
+  - {seq: 0, role: markers, filename: assets/KR3em003_000-jc.markers.yaml, hash: 'sha256:9ff55ef3ddb830e6748c19afe10f80341f7600f7b6b27ac4b258f62de286aa36'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3em003_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 687
+  label: 龍木集序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 5876
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3d2
+    span:
+    - body
+    - 3
+    - 2684
+  label: 龍木總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d2d2
+    span:
+    - body
+    - 7
+    - 355
+  label: 一審的歌發揮
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d2d3
+    span:
+    - body
+    - 355
+    - 625
+  label: 二眼敘論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d2d4
+    span:
+    - body
+    - 625
+    - 803
+  label: 三三因證治
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d2d5
+    span:
+    - body
+    - 803
+    - 977
+  label: 四五輪歌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d2d6
+    span:
+    - body
+    - 977
+    - 1139
+  label: 五內障眼法根源歌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d2d7
+    span:
+    - body
+    - 1139
+    - 1384
+  label: 六針內障眼法歌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d2d8
+    span:
+    - body
+    - 1384
+    - 1592
+  label: 七針內障眼敘法歌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d2d9
+    span:
+    - body
+    - 1592
+    - 1680
+  label: 八小兒歌
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d2d10
+    span:
+    - body
+    - 1680
+    - 2387
+  label: 九合藥矜式
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d2d11
+    span:
+    - body
+    - 2387
+    - 2451
+  label: 十煎藥訣
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d2d12
+    span:
+    - body
+    - 2451
+    - 2563
+  label: 十一服藥須知
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d2d13
+    span:
+    - body
+    - 2563
+    - 2684
+  label: 十二點眼藥訣
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3d3
+    span:
+    - body
+    - 2684
+    - 5876
+  label: 七十二證方論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d2
+    span:
+    - body
+    - 2690
+    - 2971
+  label: 一圓翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d3
+    span:
+    - body
+    - 2971
+    - 3177
+  label: 二冰翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d4
+    span:
+    - body
+    - 3177
+    - 3418
+  label: 三滑翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d5
+    span:
+    - body
+    - 3418
+    - 3661
+  label: 四澀翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d6
+    span:
+    - body
+    - 3661
+    - 3908
+  label: 五散翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d7
+    span:
+    - body
+    - 3908
+    - 4141
+  label: 六浮翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d8
+    span:
+    - body
+    - 4141
+    - 4363
+  label: 七沉翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d9
+    span:
+    - body
+    - 4363
+    - 4582
+  label: 八橫翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d10
+    span:
+    - body
+    - 4582
+    - 4791
+  label: 九偃月翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d11
+    span:
+    - body
+    - 4791
+    - 4961
+  label: 十棗花翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d12
+    span:
+    - body
+    - 4961
+    - 5126
+  label: 十一白翳黃心內障
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d13
+    span:
+    - body
+    - 5126
+    - 5345
+  label: 十二黑水一作黑花凝翳內障
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d14
+    span:
+    - body
+    - 5345
+    - 5648
+  label: 十三胎患內障
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3em003_jc_001-d3.d3d15
+    span:
+    - body
+    - 5648
+    - 5876
+  label: 十四五風變內障
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3em003_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 2485
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3em003_jc_002-d4d2
+    span:
+    - body
+    - 3
+    - 254
+  label: 十五雷頭風內障
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em003_jc_002-d4d3
+    span:
+    - body
+    - 254
+    - 511
+  label: 十六驚振內障
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em003_jc_002-d4d4
+    span:
+    - body
+    - 511
+    - 862
+  label: 十七綠風內障
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em003_jc_002-d4d5
+    span:
+    - body
+    - 862
+    - 1187
+  label: 十八烏風內障
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em003_jc_002-d4d6
+    span:
+    - body
+    - 1187
+    - 1474
+  label: 十九黑風內障
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em003_jc_002-d4d7
+    span:
+    - body
+    - 1474
+    - 1761
+  label: 二十青風內障
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em003_jc_002-d4d8
+    span:
+    - body
+    - 1761
+    - 1968
+  label: 二十一肝虛雀目內障
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em003_jc_002-d4d9
+    span:
+    - body
+    - 1968
+    - 2215
+  label: 二十二高風雀目內障
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3em003_jc_002-d4d10
+    span:
+    - body
+    - 2215
+    - 2485
+  label: 二十三肝風目暗內障
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em003_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 3134
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3em003_jc_003-d5d2
+    span:
+    - body
+    - 3
+    - 355
+  label: 二十四肝虛積熱外障
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em003_jc_003-d5d3
+    span:
+    - body
+    - 355
+    - 710
+  label: 二十五傷寒熱病後患目外障
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em003_jc_003-d5d4
+    span:
+    - body
+    - 710
+    - 1086
+  label: 二十六混睛外障
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em003_jc_003-d5d5
+    span:
+    - body
+    - 1086
+    - 1349
+  label: 二十七胬肉侵睛外障
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em003_jc_003-d5d6
+    span:
+    - body
+    - 1349
+    - 1547
+  label: 二十八兩瞼黏睛外障
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em003_jc_003-d5d7
+    span:
+    - body
+    - 1547
+    - 1770
+  label: 二十九膜入水輪外障
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em003_jc_003-d5d8
+    span:
+    - body
+    - 1770
+    - 2002
+  label: 三十釘翳根深外障
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em003_jc_003-d5d9
+    span:
+    - body
+    - 2002
+    - 2192
+  label: 三十一黑翳如珠外障
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em003_jc_003-d5d10
+    span:
+    - body
+    - 2192
+    - 2484
+  label: 三十二花翳白陷外障
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em003_jc_003-d5d11
+    span:
+    - body
+    - 2484
+    - 2774
+  label: 三十三冰瑕翳深外障
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em003_jc_003-d5d12
+    span:
+    - body
+    - 2774
+    - 2945
+  label: 三十四玉翳浮滿外障
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3em003_jc_003-d5d13
+    span:
+    - body
+    - 2945
+    - 3134
+  label: 三十五因他病後生翳外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 3530
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d2
+    span:
+    - body
+    - 3
+    - 234
+  label: 三十六逆順生翳外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d3
+    span:
+    - body
+    - 234
+    - 460
+  label: 三十七雞冠蜆肉外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d4
+    span:
+    - body
+    - 460
+    - 692
+  label: 三十八瞼生風粟外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d5
+    span:
+    - body
+    - 692
+    - 906
+  label: 三十九胞肉膠凝外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d6
+    span:
+    - body
+    - 906
+    - 1095
+  label: 四十漏睛膿出外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d7
+    span:
+    - body
+    - 1095
+    - 1403
+  label: 四十一蟹睛疼痛外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d8
+    span:
+    - body
+    - 1403
+    - 1626
+  label: 四十二突起睛高外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d9
+    span:
+    - body
+    - 1626
+    - 1903
+  label: 四十三風牽喎偏外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d10
+    span:
+    - body
+    - 1903
+    - 2164
+  label: 四十四倒睫拳毛外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d11
+    span:
+    - body
+    - 2164
+    - 2444
+  label: 四十五風牽瞼出外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d12
+    span:
+    - body
+    - 2444
+    - 2666
+  label: 四十六神祟疼痛外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d13
+    span:
+    - body
+    - 2666
+    - 2874
+  label: 四十七旋螺尖起外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d14
+    span:
+    - body
+    - 2874
+    - 3090
+  label: 四十八鶻眼凝睛外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d15
+    span:
+    - body
+    - 3090
+    - 3321
+  label: 四十九轆轤轉關外障
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3em003_jc_004-d6d16
+    span:
+    - body
+    - 3321
+    - 3530
+  label: 五十偶被物撞破外障
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3em003_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 3065
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3em003_jc_005-d7d2
+    span:
+    - body
+    - 3
+    - 225
+  label: 五十一撞刺生翳外障
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3em003_jc_005-d7d3
+    span:
+    - body
+    - 225
+    - 490
+  label: 五十二血灌瞳人外障
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3em003_jc_005-d7d4
+    span:
+    - body
+    - 490
+    - 706
+  label: 五十三眯目飛塵外障
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3em003_jc_005-d7d5
+    span:
+    - body
+    - 706
+    - 1055
+  label: 五十四天行後赤眼外障
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3em003_jc_005-d7d6
+    span:
+    - body
+    - 1055
+    - 1283
+  label: 五十五暴赤眼後急生翳外障
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3em003_jc_005-d7d7
+    span:
+    - body
+    - 1283
+    - 1532
+  label: 五十六胎風赤爛外障
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3em003_jc_005-d7d8
+    span:
+    - body
+    - 1532
+    - 1773
+  label: 五十七風赤瘡痍外障
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3em003_jc_005-d7d9
+    span:
+    - body
+    - 1773
+    - 2089
+  label: 五十八衝風淚出外障
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3em003_jc_005-d7d10
+    span:
+    - body
+    - 2089
+    - 2366
+  label: 五十九暴風客熱外障
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3em003_jc_005-d7d11
+    span:
+    - body
+    - 2366
+    - 2590
+  label: 六十瞼硬睛痛外障
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3em003_jc_005-d7d12
+    span:
+    - body
+    - 2590
+    - 2824
+  label: 六十一眼痛如針刺外障
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3em003_jc_005-d7d13
+    span:
+    - body
+    - 2824
+    - 3065
+  label: 六十二眼癢極難忍外障
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3em003_jc_006-d8.h1s1
+    span:
+    - body
+    - 0
+    - 2627
+  label: 卷之六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3em003_jc_006-d8d2
+    span:
+    - body
+    - 3
+    - 271
+  label: 六十三眼坐起生花外障
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3em003_jc_006-d8d3
+    span:
+    - body
+    - 271
+    - 515
+  label: 六十四瞳人幹缺外障
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3em003_jc_006-d8d4
+    span:
+    - body
+    - 515
+    - 781
+  label: 六十五眼黃膜上衝外障
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3em003_jc_006-d8d5
+    span:
+    - body
+    - 781
+    - 1043
+  label: 六十六眼赤膜下垂外障
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3em003_jc_006-d8d6
+    span:
+    - body
+    - 1043
+    - 1256
+  label: 六十七眼小眥赤脈外障
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3em003_jc_006-d8d7
+    span:
+    - body
+    - 1256
+    - 1536
+  label: 六十八小兒通晴外障
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3em003_jc_006-d8d8
+    span:
+    - body
+    - 1536
+    - 1827
+  label: 六十九小兒斑瘡入眼外障
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3em003_jc_006-d8d9
+    span:
+    - body
+    - 1827
+    - 2095
+  label: 七十小兒瞼中生贅外障
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3em003_jc_006-d8d10
+    span:
+    - body
+    - 2095
+    - 2387
+  label: 七十一小兒疳眼外障
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3em003_jc_006-d8d11
+    span:
+    - body
+    - 2387
+    - 2627
+  label: 七十二小兒青盲外障
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3em003_jc_007-d9.h1s1
+    span:
+    - body
+    - 0
+    - 4373
+  label: 卷之七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3em003_jc_007-d9d2
+    span:
+    - body
+    - 3
+    - 4373
+  label: 諸家秘要名方
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3em003_jc_007-d9.d2d4
+    span:
+    - body
+    - 12
+    - 72
+  label: 一巢氏論針眼候
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3em003_jc_007-d9.d2d5
+    span:
+    - body
+    - 72
+    - 1041
+  label: 二三因方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3em003_jc_007-d9.d2d6
+    span:
+    - body
+    - 1041
+    - 2031
+  label: 三本事方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3em003_jc_007-d9.d2d7
+    span:
+    - body
+    - 2031
+    - 2815
+  label: 四百一選方
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3em003_jc_007-d9.d2d8
+    span:
+    - body
+    - 2815
+    - 4373
+  label: 五和劑方
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.h1s1
+    span:
+    - body
+    - 0
+    - 3962
+  label: 卷之八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10d2
+    span:
+    - body
+    - 3
+    - 3962
+  label: 針灸經
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d2
+    span:
+    - body
+    - 6
+    - 651
+  label: 一偃伏頭部中行
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d3
+    span:
+    - body
+    - 651
+    - 953
+  label: 二偃伏頭部第二行
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d4
+    span:
+    - body
+    - 953
+    - 1239
+  label: 三偃伏頭部第三行
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d5
+    span:
+    - body
+    - 1239
+    - 1486
+  label: 四側頭部
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d6
+    span:
+    - body
+    - 1486
+    - 1529
+  label: 五正面部中行
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d7
+    span:
+    - body
+    - 1529
+    - 1769
+  label: 六面部第二行
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d8
+    span:
+    - body
+    - 1769
+    - 1927
+  label: 七面部第三行
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d9
+    span:
+    - body
+    - 1927
+    - 2133
+  label: 八面部第四行
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d10
+    span:
+    - body
+    - 2133
+    - 2185
+  label: 九側面部
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d11
+    span:
+    - body
+    - 2185
+    - 2261
+  label: 十背腧部中行
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d12
+    span:
+    - body
+    - 2261
+    - 2513
+  label: 十一背腧部第二行
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d13
+    span:
+    - body
+    - 2513
+    - 2596
+  label: 十二背腧部第三行
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d14
+    span:
+    - body
+    - 2596
+    - 2681
+  label: 十三手太陰肺經
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d15
+    span:
+    - body
+    - 2681
+    - 2814
+  label: 十四手陽明大腸經
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d16
+    span:
+    - body
+    - 2814
+    - 2909
+  label: 十五手少陰心經
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d17
+    span:
+    - body
+    - 2909
+    - 3201
+  label: 十六手太陽小腸經
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d18
+    span:
+    - body
+    - 3201
+    - 3352
+  label: 十七手少陽三焦經
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d19
+    span:
+    - body
+    - 3352
+    - 3455
+  label: 十八足少陽膽經
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d20
+    span:
+    - body
+    - 3455
+    - 3642
+  label: 十九足太陽膀胱經
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d21
+    span:
+    - body
+    - 3642
+    - 3825
+  label: 二十推人神所在法
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d22
+    span:
+    - body
+    - 3825
+    - 3883
+  label: 二十一推逐時人神所在
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3em003_jc_008-d10.d2d23
+    span:
+    - body
+    - 3883
+    - 3962
+  label: 二十二推九宮尻神訣
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3em003_jc_009-d11.h1s1
+    span:
+    - body
+    - 0
+    - 3683
+  label: 卷之九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3em003_jc_009-d11d2
+    span:
+    - body
+    - 3
+    - 3683
+  label: 諸方辯論藥性
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3em003_jc_009-d11.d2d2
+    span:
+    - body
+    - 9
+    - 875
+  label: 一玉石部
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3em003_jc_009-d11.d2d3
+    span:
+    - body
+    - 875
+    - 3683
+  label: 二草部
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3em003_jc_010-d12.h1s1
+    span:
+    - body
+    - 0
+    - 3680
+  label: 卷之十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3em003_jc_010-d12d2
+    span:
+    - body
+    - 3
+    - 1505
+  label: 三木部
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3em003_jc_010-d12d3
+    span:
+    - body
+    - 1505
+    - 1615
+  label: 四人部
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3em003_jc_010-d12d4
+    span:
+    - body
+    - 1615
+    - 2352
+  label: 五獸部
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3em003_jc_010-d12d5
+    span:
+    - body
+    - 2352
+    - 2371
+  label: 六禽部
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3em003_jc_010-d12d6
+    span:
+    - body
+    - 2371
+    - 3053
+  label: 七蟲魚部
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3em003_jc_010-d12d7
+    span:
+    - body
+    - 3053
+    - 3148
+  label: 八果部
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3em003_jc_010-d12d8
+    span:
+    - body
+    - 3148
+    - 3202
+  label: 九米穀部
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3em003_jc_010-d12d9
+    span:
+    - body
+    - 3202
+    - 3680
+  label: 十菜部
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em003_jc_000-d13.h1s1
+    span:
+    - body
+    - 0
+    - 10716
+  label: 附葆光道人眼科龍木集
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3em003_jc_000-d13d4
+    span:
+    - body
+    - 1108
+    - 1271
+  label: 五輪歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em003_jc_000-d13d5
+    span:
+    - body
+    - 1271
+    - 1756
+  label: 八廓歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em003_jc_000-d13d6
+    span:
+    - body
+    - 1756
+    - 2008
+  label: 鉤割針鐮法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em003_jc_000-d13d7
+    span:
+    - body
+    - 2008
+    - 2178
+  label: 論眼捷法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em003_jc_000-d13d8
+    span:
+    - body
+    - 2178
+    - 2316
+  label: 論眼昏花捷要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3em003_jc_000-d13d9
+    span:
+    - body
+    - 2316
+    - 10716
+  label: 七十二問
+  type: section
+  level: 2
+hash: sha256:4f6a9c97dba60bc5a8695bc06a9d37c9708824528c7a01856a1a630d4c2021d5
