@@ -18,6 +18,7 @@ markers:
   - {type: 'tls:seg', offset: 42, content: '', id: KR3em003_jc_005-d7.d2.p2s6}
   - {type: punctuation, offset: 46, content: 。, id: KR3em003_jc_005-bkkpn7}
   - {type: 'tls:seg', offset: 46, content: '', id: KR3em003_jc_005-d7.d2.p2s7}
+  - {type: substitution, offset: 50, original: 熨, replacement: 尉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20398}}
   - {type: punctuation, offset: 52, content: 。, id: KR3em003_jc_005-bkkpn8}
   - {type: 'tls:seg', offset: 52, content: '', id: KR3em003_jc_005-d7.d2.p2s8}
   - {type: punctuation, offset: 56, content: 。, id: KR3em003_jc_005-bkkpn9}
@@ -651,6 +652,7 @@ markers:
   - {type: xml-element, offset: 1358, content: '', id: KR3em003_jc_005-d7.d7p6, name: p, role: open, attrs: {'xml:id': KR3em003_jc_005-d7.d7p6}}
   - {type: 'tls:seg', offset: 1358, content: '', id: KR3em003_jc_005-d7.d7.p6s1}
   - {type: 'tls:seg', offset: 1365, content: '', id: KR3em003_jc_005-d7.d7.p6s2}
+  - {type: substitution, offset: 1367, original: 慾, replacement: 欲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17334}}
   - {type: 'tls:seg', offset: 1372, content: '', id: KR3em003_jc_005-d7.d7.p6s3}
   - {type: 'tls:seg', offset: 1379, content: '', id: KR3em003_jc_005-d7.d7.p6s4}
   - {type: xml-element, offset: 1386, content: '', id: KR3em003_jc_005-d7.d7p6_end, name: p, role: close, attrs: {'xml:id': KR3em003_jc_005-d7.d7p6}}
@@ -1498,4 +1500,4 @@ markers:
   - {type: punctuation, offset: 3065, content: 。, id: KR3em003_jc_005-bkkpn441}
   - {type: xml-element, offset: 3065, content: '', id: KR3em003_jc_005-d7.d13p26_end, name: p, role: close, attrs: {'xml:id': KR3em003_jc_005-d7.d13p26}}
   back: []
-hash: sha256:e2021819161c337bb239dc6aa507c51a842eced8d780e18d1eb8499111c255ea
+hash: sha256:6adae3fdd510033ea75e73e680b932efbdae590b955beebe48325159069cce8b
